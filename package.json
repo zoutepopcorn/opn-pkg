@@ -1,0 +1,16 @@
+{
+  "name": "opn-pkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-exists": "^1.2.7",
+    "execa": "^1.0.0",
+    "opn": "^5.4.0"
+  }
+}
