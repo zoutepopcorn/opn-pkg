@@ -12,7 +12,7 @@ Just a simple tool based on issue from pkg WORKAROUND made by: -> axe312ger
 # Example
 
 ```
-const pkgOpen = require('./pkg-opn');
+const pkgOpen = require('opn-pkg');
 
 pkgOpen('https://hackaday.io');
 
