@@ -8,6 +8,13 @@ Just a simple tool based on issue from pkg WORKAROUND made by: -> axe312ger
 ``` npm install pkg-open ```
 
 
+# Tested on
+
+:heavy_check_mark: Arch Linux
+
+:heavy_check_mark: Windows 10
+
+:question: Os X
 
 # Example
 
