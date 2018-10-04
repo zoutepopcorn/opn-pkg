@@ -9,6 +9,19 @@
   },
   "author": "",
   "license": "ISC",
+  "keywords": [
+    "pkg",
+    "opn",
+    "browser",
+    "open",
+    "url",
+    "cross",
+    "platform",
+    "windows",
+    "linux",
+    "mac",
+    "osx"
+  ],
   "dependencies": {
     "command-exists": "^1.2.7",
     "execa": "^1.0.0",
